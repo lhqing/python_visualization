@@ -3,6 +3,9 @@
 ## If you don't want to install anything
 Click this🐷 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/lhqing/python_visualization/master)
 
+## For view only
+[![Nbviewer]https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](http://nbviewer.jupyter.org/github/lhqing/python_visualization/blob/master/python_vis.ipynb)
+
 ## Requirements
 Python >= 3.6
 seaborn==0.9.0
