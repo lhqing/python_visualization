@@ -1,7 +1,7 @@
 # python_visualization
 
 ## If you don't want to install anything
-Click this🐷 * [![](https://mybinder.org/badge.svg)](https://hub.mybinder.org/user/lhqing-python_visualization-mv1jms52/notebooks/python_vis.ipynb)
+Click this🐷 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/lhqing/python_visualization/master)
 
 ## Requirements
 Python >= 3.6
